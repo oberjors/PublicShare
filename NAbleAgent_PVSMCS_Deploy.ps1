@@ -10,6 +10,7 @@
 	1.3 21DEC21
 		Modified scheduled task creation to correct elevation issue
 		Must generate registration token in console for customer prior to deployment, otherwise lookup with fail
+			18JAN22 NAble is tracking this issue as NCCF-14783
 .Summary
     This script prompts for specific information and stores it as an xml file.
     Conceived as a setup script for the deployment of the NAble agent on a provisioned image.

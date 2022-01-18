@@ -12,7 +12,7 @@
 		Must generate registration token in console for customer prior to deployment, otherwise lookup with fail
 .Summary
     This script prompts for specific information and stores it as an xml file.
-    Conceived as a setup script for the deployment of the NAble agent
+    Conceived as a setup script for the deployment of the NAble agent on a provisioned image.
     Example found at https://searchwindowsserver.techtarget.com/tip/Using-PowerShell-to-create-XML-documents
 	https://github.com/N-able/ScriptsAndAutomationPolicies/blob/master/DeployTheNCAgent/DeployTheNCAgent.ps1
 .Credits
